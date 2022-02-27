@@ -3,7 +3,7 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 Email: IbrahimAC.workk@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IbrahimAC)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IbrahimAC)](https://github.com/anuraghazra/github-readme-stats&how_icons=true&theme=radical)
 
 [Projects](#projects) / [Work Experience](#work-experience) / [Skills](#skills) / [Education](#education) / [Interests](#interests)
 ## Projects
