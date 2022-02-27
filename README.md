@@ -1,7 +1,7 @@
 ## Ibrahim Chowdhury
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
-[Projects](#projects) / [Work Experience](#work-experience) / [Skills](#skills) / [Education](#education) / [Interests & Hobbies](#interests&Hobbies)
+[Projects](#projects) / [Work Experience](#work-experience) / [Skills](#skills) / [Education](#education) / [Interests](#interests)
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
@@ -72,6 +72,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 That in some arguable way make you a better software developer or well-rounded person
 
-## Interests & Hobbies
+## Interests
 
 Any cool stuff that makes you a super part of a software development team
