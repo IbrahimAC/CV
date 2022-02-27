@@ -75,11 +75,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 -GSCSE’s:  9 A*-C 
 
-
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
-
 ## Interests
 
 I love playing football and videogames. Things that allow me to keep in touch with amany friends. What currently has my attnetion is the games by FROMSOFT known as Dark Souls. To put it simply spending time with friends in any capacity, through any of my interests or just chilling. Game of thrones was ruined for us all.
