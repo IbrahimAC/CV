@@ -1,21 +1,20 @@
 ## Ibrahim Chowdhury
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IbrahimAC)](https://github.com/anuraghazra/github-readme-stats)
 [Projects](#projects) / [Work Experience](#work-experience) / [Skills](#skills) / [Education](#education) / [Interests](#interests)
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-|[Acebook](https://github.com/IbrahimAC/Acebook)           | Facebook clone allowing users to network via posting, comments or liking posts.     | Ruby on Rails, JavaScript, RSpec, PostgreSQL, HTML, CSS.|
-| [Devote-frontend](https://github.com/Inimesh/devote_frontend), [Devote-backend](https://github.com/Inimesh/devote_backend) | Money managing application that let you round up your everyday purchases to the nearest pound or several other potential percentages | Javascript, React, Bootstrap, Ruby, Rails, Postgres |
+| [Devote-frontend](https://github.com/FrancescoCollotto/devote_frontend), [Devote-backend](https://github.com/FrancescoCollotto/devote_backend) | Money managing application that let you round up your everyday purchases to the nearest pound or several other potential percentages | Javascript, React, Bootstrap, Ruby, Rails, Postgres |
 | [Django Blog web app](https://github.com/IbrahimAC/Django-Blog-Web-App-Project) | A webapp that allows you to post and browse blog entries, choose an profile picture. | Python, CSS, Html, Django              |
 | [MakersBnB](https://github.com/IbrahimAC/makersbnb) | An AirBnB clone where you can signup, and list your place to be booked by other signed up users | Ruby, Sinatra, Postgres, RSpec, Capybara |
 
 ## Work Experience
 
-**Ernest and Young**
-  For one week I shadowed a Tax partner, and her team, attending their meetings, looking at the issues faced by them and their daily working routine. This helped me learn how     leading businesses are run and what E&Y specifically do for their clients and why clients believe their way of service is better than others.
-
+**Company Name** (start-date to end-date)  
+_Your job title_
 
 - Any experience, including roles and responsibilities and results achived in bullet point format.
 
@@ -56,7 +55,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### **Makers Academy** (November 2021 - February 2022)
+#### Makers Academy (start_date to end_date)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
@@ -65,13 +64,11 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Beal High School, London UK (2010 - 2016)
+#### Your University / College (start_date to end_date)
 
-
--A levels: Philosophy and Ethics, English Literature, History
-
--GSCSE’s:  9 A*-C 
-
+- Subject, any specialisms
+- Grade
+- Other cool stuff
 
 #### Any other qualifications
 
