@@ -7,7 +7,7 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | [Devote-frontend](https://github.com/FrancescoCollotto/devote_frontend), [Devote-backend](https://github.com/FrancescoCollotto/devote_backend) | Money managing application that let you round up your everyday purchases to the nearest pound or several other potential percentages | Javascript, React, Bootstrap, Ruby, Rails, Postgres |
-| [Django Blog web app](https://github.com/IbrahimAC/Django-Blog-Web-App-Project) | A webapp that allows you to post and browse blog entries, choose an profile picture. | Ruby              |
+| [Django Blog web app](https://github.com/IbrahimAC/Django-Blog-Web-App-Project) | A webapp that allows you to post and browse blog entries, choose an profile picture. | Python, CSS, Html, Django              |
 | [MakersBnB](https://github.com/IbrahimAC/makersbnb) | An AirBnB clone where you can signup, and list your place to be booked by other signed up users | Ruby, Sinatra, Postgres, RSpec, Capybara |
 
 ## Work Experience
