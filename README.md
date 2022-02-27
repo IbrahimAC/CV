@@ -82,4 +82,4 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Interests
 
-I love playing football and playing videogames. I love something that challenges me and just spending time with friends in any capacity. Game of thrones was ruined for us all.
+I love playing football and videogames. Things that allow me to keep in touch with amany friends. What currently has my attnetion is the games by FROMSOFT known as Dark Souls. To put it simply spending time with friends in any capacity, through any of my interests or just chilling. Game of thrones was ruined for us all.
