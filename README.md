@@ -18,10 +18,11 @@ Email: IbrahimAC.workk@gmail.com
 ## Work Experience
 
 **Ernest and Young**
+
   For one week I shadowed a Tax partner, and her team, attending their meetings, looking at the issues faced by them and their daily working routine. This helped me learn how     leading businesses are run and what E&Y specifically do for their clients and why clients believe their way of service is better than others.
 
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+
 
 **Company Name** (start-date to end-date)  
 _Your job title_
@@ -81,4 +82,4 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Interests
 
-Any cool stuff that makes you a super part of a software development team
+I love playing football and playing videogames. I love something that challenges me and just spending time with friends in any capacity. Game of thrones was ruined for us all.
