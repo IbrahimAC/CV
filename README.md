@@ -13,8 +13,9 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Ernest and Young**
+For a week I shadowed a Tax partner, and her team, attending their meetings, looking at the issues faced by them and their daily working routine. This helped me learn how leading businesses are run and what E&Y specifically do for their clients and why clients believe their way of service is better than others.
+
 
 - Any experience, including roles and responsibilities and results achived in bullet point format.
 
