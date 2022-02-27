@@ -13,8 +13,8 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Work Experience
 
--**Ernest and Young**
-For a week I shadowed a Tax partner, and her team, attending their meetings, looking at the issues faced by them and their daily working routine. This helped me learn how leading businesses are run and what E&Y specifically do for their clients and why clients believe their way of service is better than others.
+**Ernest and Young**
+  For one week I shadowed a Tax partner, and her team, attending their meetings, looking at the issues faced by them and their daily working routine. This helped me learn how     leading businesses are run and what E&Y specifically do for their clients and why clients believe their way of service is better than others.
 
 
 - Any experience, including roles and responsibilities and results achived in bullet point format.
@@ -56,7 +56,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (November 2021 - February 2022
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
@@ -65,11 +65,12 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Beal High School, London UK (2010 - 2016)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+
+-A levels: Philosophy and Ethics, English Literature, History
+-GSCSE’s:  9 A*-C 
+
 
 #### Any other qualifications
 
