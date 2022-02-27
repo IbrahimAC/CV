@@ -5,7 +5,7 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| [Devote-frontend](https://github.com/FrancescoCollotto/devote_frontend), [Devote-backend](https://github.com/FrancescoCollotto/devote_backend) | Money managing application that let you round up your everyday purchases to the nearest pound | Javascript, React, Bootstrap, Ruby, Rails, Postgres |
+| [Devote-frontend](https://github.com/FrancescoCollotto/devote_frontend), [Devote-backend](https://github.com/FrancescoCollotto/devote_backend) | Money managing application that let you round up your everyday purchases to the nearest pound or several other potential percentages | Javascript, React, Bootstrap, Ruby, Rails, Postgres |
 | **Something else worked on** | A webapp to do y. | Ruby              |
 
 ## Work Experience
