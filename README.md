@@ -72,6 +72,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 That in some arguable way make you a better software developer or well-rounded person
 
-## Hobbies
+## Interests & Hobbies
 
 Any cool stuff that makes you a super part of a software development team
