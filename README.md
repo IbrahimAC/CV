@@ -56,6 +56,10 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 ## Education
 
 #### Makers Academy (November 2021 - February 2022)
+- Constant Paired Programming to improve understanding of technical problems, and working in said enviroments.
+- Focus on TDD
+- Three group engineering projects to build experience working in a software development team, from making a trello board, researching to again paired programming on tickets/tasks.
+- 
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
