@@ -23,13 +23,6 @@ Email: IbrahimAC.workk@gmail.com
   For one week I shadowed a Tax partner, and her team, attending their meetings, looking at the issues faced by them and their daily working routine. This helped me learn how     leading businesses are run and what E&Y specifically do for their clients and why clients believe their way of service is better than others.
 
 
-
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
-
 ## Skills
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
