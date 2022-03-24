@@ -57,14 +57,12 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Makers Academy (November 2021 - February 2022)
 - Constant Paired Programming to improve understanding of technical problems, and working in said enviroments.
-- Focus on TDD, OOP, Agile software development
+- Focus on TDD, OOP, Agile software development.
 - Weekly retros to gage our understanding and knowledge of the week just gone and the course so far as a whole for ourselves. In short constant useful progression checks.
 - Three group engineering projects to build experience working in a software development team, from making a trello board, researching to again paired programming on tickets/tasks.
-- 
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
+- Domain Modelling
+- Spike and Stabilise
+- Building with the MVC pattern and the DDD pattern of programming
 - Agile/XP
 - Used Technologies/Frameworks/Tools such as Node, React, Rails, Git, 
 VScode, TablePlus.
