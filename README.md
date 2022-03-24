@@ -20,7 +20,7 @@ Email: IbrahimAC.workk@gmail.com
 
 **Ernest and Young**
 
-  For one week I shadowed a Tax partner, and her team, attending their meetings, looking at the issues faced by them and their daily working routine. This helped me learn how     leading businesses are run and what E&Y specifically do for their clients and why clients believe their way of service is better than others.
+  For one week I shadowed a Tax partner, and her team, attending their meetings, looking at the issues faced by them and their daily working routine. This helped me learn how leading businesses are run and what E&Y specifically do for their clients and why clients believe their way of service is better than others.
 
 
 ## Skills
