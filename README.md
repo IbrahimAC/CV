@@ -61,7 +61,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Weekly retros to gage our understanding and knowledge of the week just gone and the course so far as a whole for ourselves. In short constant useful progression checks.
 - Three group engineering projects to build experience working in a software development team, from making a trello board, researching to again paired programming on tickets/tasks.
 - Domain Modelling
-- Spike and Stabilise
 - Building with the MVC pattern and the DDD pattern of programming
 - Agile/XP
 - Used Technologies/Frameworks/Tools such as Node, React, Rails, Git, 
