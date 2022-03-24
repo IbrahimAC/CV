@@ -1,7 +1,7 @@
 ## Ibrahim Chowdhury
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
-Email: IbrahimAC.workk@gmail.com
+Email: IbrahimAC.work@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IbrahimAC&show_icons=true&theme=onedark)
 
