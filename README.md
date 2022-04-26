@@ -1,5 +1,5 @@
 ## Ibrahim Chowdhury
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+https://drive.google.com/file/d/1PQfa4OIb56xWN-ibXezPYuKWc1b7YiQC/view?usp=sharing (formal cv here)
 
 Email: IbrahimAC.work@gmail.com
 
