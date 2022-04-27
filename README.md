@@ -1,5 +1,5 @@
 ## Ibrahim Chowdhury
-https://drive.google.com/file/d/1PQfa4OIb56xWN-ibXezPYuKWc1b7YiQC/view?usp=sharing (formal cv here)
+A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
 Email: IbrahimAC.work@gmail.com
 
@@ -23,6 +23,35 @@ Email: IbrahimAC.work@gmail.com
   For one week I shadowed a Tax partner, and her team, attending their meetings, looking at the issues faced by them and their daily working routine. This helped me learn how leading businesses are run and what E&Y specifically do for their clients and why clients believe their way of service is better than others.
 
 
+## Skills
+
+Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+(Using a STAR example Paragraph) Consider the questions below.
+
+-STAR
+-What was the situation/task? (ST)
+
+-How was the skill used?
+
+-What did you do? (action)
+
+-What was the result?
+
+
+#### This Skill
+
+- Experience
+- Achievements
+- Evidence (STAR)
+
+#### Another Skill
+
+Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
+
+- I achieved A during my work at B (job, or otherwise)
+- I contributed to the growth of X while doing Y (job, or otherwise)
+- I built this, made this, broke this, fixed this, etc.
+- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
 
@@ -48,3 +77,5 @@ VScode, TablePlus.
 ## Interests
 
 I love playing football and videogames. Things that allow me to keep in touch with amany friends. What currently has my attention is the games by FROMSOFT known as Dark Souls. To put it simply spending time with friends in any capacity, through any of my interests or just chilling. Game of thrones was ruined for us all.
+
+
