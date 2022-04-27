@@ -27,7 +27,7 @@ Email: IbrahimAC.work@gmail.com
 
 ## Skills:
 
-# Teamwork and leadership:
+#### Teamwork and leadership:
 During our first group engineering project it was important not to get overwhelmed as this was an entirely new thing for all if not most of us. Making sure we started on the right foot in terms of organising our "figurative" base being our trello and dealing with any concerns was paramount. This is something I took onus of and made sure everyone understood that it is first a learning experience rather than a task to be completed. Making sure everyone was heard and we worked together is something I made sure stuck with our group. We learnt many things throughout the project and it was very good as a learning point for a window into the software development world. At times we did appear crestfallen due to our code not working but, again the emphasis on taking a step back and reassessing it for the next day and not to be all "doom and gloom" about it delivered by me (at least vocally, I'm sure several of my group felt the same, as Makers teaches you emotional intelligence too). Breakthrough came the next day and with our spirits lifted and the positive mindset maintained throughout the team, we made good progress. caring for the whole team in a somewhat intermittent leadership role whilst obviously not taking contrio as we are all equals in the group and I think kept us afloat in the project.
 
 #### Determination
