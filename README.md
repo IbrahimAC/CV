@@ -1,9 +1,8 @@
 ## Ibrahim Chowdhury
 To my core I DESPISE being bored and at the time my current career in retail was very repetitive and mundane. I've always had an interest for programming so combining the career aspect with that allows me to thrive in a field that I can just immerse myself into! As a Makers Academy graduate of the november 2021 cohort my mind has been opened up to all these pathways in the world of software development. Minor challenge seeking addiction aside I also love helping people. Software development allows me to combine all my wants from a career into an attainable goal. Something I can look back on and be fond of and enjoyed!
 
-https://drive.google.com/file/d/1PQfa4OIb56xWN-ibXezPYuKWc1b7YiQC/view?usp=sharing (formal cv here)
-
 Email: IbrahimAC.work@gmail.com
+https://drive.google.com/file/d/1PQfa4OIb56xWN-ibXezPYuKWc1b7YiQC/view?usp=sharing (formal cv here)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IbrahimAC&show_icons=true&theme=onedark)
 
