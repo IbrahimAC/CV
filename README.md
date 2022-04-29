@@ -3,9 +3,6 @@ To my core I DESPISE being bored and at the time my current career in retail was
 
 Email: IbrahimAC.work@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IbrahimAC&show_icons=true&theme=onedark)
-
-
 [Projects](#projects) / [Work Experience](#work-experience) / [Skills](#skills) / [Education](#education) / [Interests](#interests)
 ## Projects
 
