@@ -1,5 +1,6 @@
 ## Ibrahim Chowdhury
-To my core I DESPISE being bored and at the time my current career in retail was very repetitive and mundane. I've always had an interest for programming so combining the career aspect with that allows me to thrive in a field that I can just immerse myself into! As a Makers Academy graduate of the november 2021 cohort my mind has been opened up to all these pathways in the world of software development. Minor challenge seeking addiction aside, I also love helping people. Software development allows me to combine all my wants from a career into an attainable goal. Something I can look back on and be fond of and enjoyed!
+To my core I struggle with being bored and at the time my current career in retail was very repetitive and mundane. The continous boredom mirrors a slingshot effect, the longer I am in that state the more my drive increases to leave it. I've always had an interest for programming so combining the career aspect with that allows me to thrive in a field that I can just immerse myself into! As a Makers Academy graduate of the november 2021 cohort my mind has been opened up to all these pathways in the world of software development. Minor challenges seeking addiction aside, I also love helping people. Software development allows me to combine all my wants from a career into an attainable goal. Something I can look back on and be fond of and enjoyed!
+
 
 Email: IbrahimAC.work@gmail.com
 
