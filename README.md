@@ -51,7 +51,7 @@ As determined as I may be as spoken about above, I know what I am and am not cap
 
 Rather than bog down in long winded videos or oversimplified videos about this I reached out to a fellow cohort member and experimented with databases to full grasp them. 
 
-I learn best by doing rather than watching, knowing that I did the smart thing as there is no shame in having wak areas, we're all students on the course and only  human too! My awareness allows me to grow constantly and not get lost (figuratively speaking)
+I learn best by doing rather than watching, knowing that I did the smart thing as there is no shame in having weak areas, we're all students on the course and only  human too! My awareness allows me to grow constantly and not get lost (figuratively speaking)
 
 
 ## Education
